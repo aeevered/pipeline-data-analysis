@@ -16,7 +16,9 @@ The purpose of this project is to create data visualizations to analyze oil pipe
 
 ### Sample Data Visualizations
 
-![](pipeline_visualization.html)
+**[Open Interactive Visualization](pipeline_visualization.html)**
+
+![](visualization_sample.png)
 
 
 ## Additional Details
